@@ -7,4 +7,4 @@ Functions:
 - Save at Storage
 - Load from Storage
 
-Developed with JavaScript and html; 
+Developed with JavaScript and HTML; 
